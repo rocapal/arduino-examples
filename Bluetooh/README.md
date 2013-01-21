@@ -12,9 +12,9 @@ https://github.com/rocapal/android-examples/tree/master/20-ArduinoBluetooth
 
 Resources:
 
-bluetooth.ino: arduino's sketch
-scheme.fzz: Fritzing schematic
-scheme.png: Image of the schematic
+ * bluetooth.ino: arduino's sketch
+ * scheme.fzz: Fritzing schematic
+ * scheme.png: Image of the schematic
 
 
 License
